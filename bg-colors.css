@@ -1,0 +1,425 @@
+/* 
+    bg-colors.css
+
+    Colored utilities for experiments, projects, or case studies :)
+
+    USAGE: The prefix 'bg' means that it modifies the 'background-color' property
+
+    Colors listed in alphabetical order ✅
+
+*/
+
+.--bgaliceblue{
+    background-color: aliceblue;
+}
+.--bgantiquewhite{
+    background-color: antiquewhite;
+}
+.--bgaqua{
+    background-color: aqua;
+}
+.--bgaquamarine{
+    background-color: aquamarine;
+}
+.--bgazure{
+    background-color: azure;
+}
+.--bgbeige{
+    background-color: beige;
+}
+.--bgbisque{
+    background-color: bisque;
+}
+.-cblanchedalmond{
+    background-color: blanchedalmond;
+}
+.--bgblueviolet{
+    background-color: blueviolet;
+}
+.--bgburlywood{
+    background-color: burlywood;
+}
+.--bgcadetblue{
+    background-color: cadetblue;
+}
+.--bgchartreuse{
+    background-color: chartreuse;
+}
+.--bgchocolate{
+    background-color: chocolate;
+}
+.--bgcornsilk{
+    background-color: cornsilk;
+}
+.--bgdarkblue{
+    background-color: darkblue;
+}
+.--bgdarkcyan{
+    background-color: darkcyan;
+}
+.--bgdarkgoldenrod{
+    background-color: darkgoldenrod;
+}
+.--bgdarkgray{
+    background-color: darkgray;
+}
+.--bgdarkgrey{
+    background-color: darkgrey;
+}
+.--bgdarkgreen{
+    background-color: darkgreen;
+}
+.--bgdarkkhaki{
+    background-color: darkkhaki;
+}
+.--bgdarkmagenta{
+    background-color:darkmagenta;
+}
+.--bgdarkolivegreen{
+    background-color: darkolivegreen;
+}
+.--bgdarkorange{
+    background-color: darkorange;
+}
+.--bgdarkorchid{
+    background-color: darkorchid;
+}
+.--bgdarkred{
+    background-color: darkred;
+}
+.--bgdarksalmon{
+    background-color: darksalmon;
+}
+.--bgdarkseagreen{
+    background-color: darkseagreen;
+}
+.--bgdarkslateblue{
+    background-color: darkslateblue;
+}
+.--bgdarkslategray{
+    background-color: darkslategray;
+}
+.--bgdarkslategrey{
+    background-color: darkslategrey;
+}
+.--bgdarkturquoise{
+    background-color: darkturquoise;
+}
+.--bgdarkviolet{
+    background-color: darkviolet;
+}
+.--bgdeeppink{
+    background-color: deeppink;
+}
+.--bgdeepskyblue{
+    background-color: deepskyblue;
+}
+.--bgdimgray{
+    background-color: dimgray;
+}
+.--bgdimgrey{
+    background-color:dimgrey;
+}
+.--bgdodgerblue{
+    background-color: dodgerblue;
+}
+.--bgfirebrick{
+    background-color: firebrick;
+}
+.--bgfloralwhite{
+    background-color: floralwhite;
+}
+.--bgforestgreen{
+    background-color: forestgreen;
+}
+.--bgfuchsia{
+    background-color: fuchsia;
+}
+.--bggainsboro{
+    background-color: gainsboro;
+}
+.--bgghostwhite{
+    background-color: ghostwhite;
+}
+.--bggold{
+    background-color: gold;
+}
+.--bggoldenrod{
+    background-color: goldenrod;
+}
+.--bggray{
+    background-color: gray;
+}
+.--bggrey{
+    background-color: grey;
+}
+.--bggreen{
+    background-color: green;
+}
+.--bggreenyellow{
+    background-color: greenyellow;
+}
+.--bghoneydew{
+    background-color: honeydew;
+}
+.--bghotpink{
+    background-color: hotpink;
+}
+.--bgindianred{
+    background-color: indianred;
+}
+.--bgindigo{
+    background-color: indigp;
+}
+.--bgivory{
+    background-color: ivory;
+}
+.--bgkhaki{
+    background-color: khaki;
+}
+.--bglavender{
+    background-color: lavender;
+}
+.--bglavenderblush{
+    background-color: lavenderblush;
+}
+.--bglawngreen{
+    background-color: lawngreen;
+}
+.--bglemonchiffon{
+    background-color: lemonchiffon;
+}
+.--bglightblue{
+    background-color: lightblue;
+}
+.--bglightcoral{
+    background-color: lightcoral;
+}
+.--bglightcyan{
+    background-color: lightcyan;
+}
+.--bglightgoldenrodyellow{
+    background-color: lightgoldenrodyellow;
+}
+.--bglightgray{
+    background-color: lightgray;
+}
+.--bglightgrey{
+    background-color: lightgrey;
+}
+.--bglightgreen{
+    background-color: lightgreen;
+}
+.--bglightpink{
+    background-color: lightpink;
+}
+.--bglightsalmon{
+    background-color: lightsalmon;
+}
+.--bglightseagreen{
+    background-color: lightseagreen;
+}
+.--bglightskyblue{
+    background-color: lightskyblue;
+}
+.--bglightslategray{
+    background-color: lightslategray;
+}
+.--bglightslategrey{
+    background-color: lightslategrey;
+}
+.--bglightsteelblue{
+    background-color: lightsteelblue;
+}
+.--bglightyellow{
+    background-color: lightyellow;
+}
+.--bglime{
+    background-color: lime;
+}
+.--bglimegreen{
+    background-color: limegreen;
+}
+.--bglinen{
+    background-color: linen;
+}
+.--bgmagenta{
+    background-color: magenta;
+}
+.--bgmaroon{
+    background-color: maroon;
+}
+.--bgmediumaquamarine{
+    background-color: mediumaquamarine;
+}
+.--bgnediumblue{
+    background-color: mediumblue;
+}
+.--bgmediumorchid{
+    background-color: mediumorchid;
+}
+.--bgmediumpurple{
+    background-color: mediumpurple;
+}
+.--bgmediumseagreen{
+    background-color: mediumseagreen;
+}
+.--bgmediumslateblue{
+    background-color: mediumslateblue;
+}
+.--bgmediumspringgreen{
+    background-color: mediumspringgreen;
+}
+.--bgmediumturquoise{
+    background-color: mediumturquoise;
+}
+.--bgmediumvioletred{
+    background-color: mediumvioletred;
+}
+.--bgmidnightblue{
+    background-color: midnightblue;
+}
+.--bgmintcream{
+    background-color: mintcream;
+}
+.--bgmistyrose{
+    background-color: mistyrose;
+}
+.--bgmoccasin{
+    background-color: moccasin;
+}
+.--bgnavajowhite{
+    background-color: navajowhite;
+}
+.--bgnavy{
+    background-color: navy;
+}
+.--bgoldlace{
+    background-color: oldlace;
+}
+.--bgolive{
+    background-color: olive;
+}
+.--bgolivedrab{
+    background-color: olivedrab;
+}
+.--bgorange{
+    background-color: orange;
+}
+.--bgorangered{
+    background-color: orangered;
+}
+.--bgorchid{
+    background-color: orchid;
+}
+.--bgpalegoldenrod{
+    background-color: palegoldenrod;
+}
+.--bgpalegreen{
+    background-color: palegreen;
+}
+.--bgpaleturquoise{
+    background-color: paleturquoise;
+}
+.--bgpalevioletred{
+    background-color: palevioletred;
+}
+.--bgpapayawhip{
+    background-color: papayawhip;
+}
+.--bgpeachpuff{
+    background-color: peachpuff;
+}
+.--bgperu{
+    background-color: peru;
+}
+.--bgpink{
+    background-color: pink;
+}
+.--bgplum{
+    background-color: plum;
+}
+.--bgpowderblue{
+    background-color: powderblue;
+}
+.--bgpurple{
+    background-color: purple;
+}
+.--bgrebbecapurple{
+    background-color: rebeccapurple;
+}
+.--bgred{
+    background-color: red;
+}
+.--bgrosybrown{
+    background-color: rosybrown;
+}
+.--bgroyalblue{
+    background-color: royalblue;
+}
+.--bgsaddlebrown{
+    background-color: saddlebrown;
+}
+.--bgsalmon{
+    background-color: salmon;
+}
+.--bgsandybrown{
+    background-color: sandybrown;
+}
+.--bgseagreen{
+    background-color: seagreen;
+}
+.--bgseachell{
+    background-color: seashell;
+}
+.--bgsienna{
+    background-color: sienna;
+}
+.--bgsilver{
+    background-color: silver;
+}
+.--bgskyblue{
+    background-color: skyblue;
+}
+.--bgslateblue{
+    background-color: slateblue;
+}
+.--bgsnow{
+    background-color: snow;
+}
+.--bgspringreen{
+    background-color: springgreen;
+}
+.--bgsteelblue{
+    background-color: steelblue;
+}
+.--bgtan{
+    background-color: tan;
+}
+.--bgteal{
+    background-color: teal;
+}
+.--bgthistle{
+    background-color: thistle;
+}
+.--bgtomato{
+    background-color: tomato;
+}
+.--bgturquoise{
+    background-color: turquoise;
+}
+.--bgviolet{
+    background-color: violet;
+}
+.--bgwheat{
+    background-color: white;
+}
+.--bgwhitesmoke{
+    background-color: whitesmoke;
+}
+.--bgyellow{
+    background-color: yellow;
+}
+.--bgyellowgreen{
+    background-color: yellowgreen;
+}

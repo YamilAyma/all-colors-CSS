@@ -1,0 +1,529 @@
+/* 
+    colors.css
+
+    Utilities to use in some styling practice,
+    either experiments or study
+
+    USAGE: The prefix 'c' indicates that using the property 'color', for 'bg' it is the property 'background-color'
+
+    Colors listed in alphabetical order ✅
+
+*/
+
+.--caliceblue{
+    color: aliceblue;
+}
+.--cantiquewhite{
+    color: antiquewhite;
+}
+.--caqua{
+    color: aqua;
+}
+.--caquamarine{
+    color: aquamarine;
+}
+.--cazure{
+    color: azure;
+}
+.--cbeige{
+    color: beige;
+}
+.--cbisque{
+    color: bisque;
+}
+.-cblanchedalmond{
+    color: blanchedalmond;
+}
+.--cblueviolet{
+    color: blueviolet;
+}
+.--cburlywood{
+    color: burlywood;
+}
+.--ccadetblue{
+    color: cadetblue;
+}
+.--cchartreuse{
+    color: chartreuse;
+}
+.--cchocolate{
+    color: chocolate;
+}
+.--ccornsilk{
+    color: cornsilk;
+}
+.--cdarkblue{
+    color: darkblue;
+}
+.--cdarkcyan{
+    color: darkcyan;
+}
+.--cdarkgoldenrod{
+    color: darkgoldenrod;
+}
+.--cdarkgray{
+    color: darkgray;
+}
+.--cdarkgrey{
+    color: darkgrey;
+}
+.--cdarkgreen{
+    color: darkgreen;
+}
+.--cdarkkhaki{
+    color: darkkhaki;
+}
+.--cdarkmagenta{
+    color:darkmagenta;
+}
+.--cdarkolivegreen{
+    color: darkolivegreen;
+}
+.--cdarkorange{
+    color: darkorange;
+}
+.--cdarkorchid{
+    color: darkorchid;
+}
+.--cdarkred{
+    color: darkred;
+}
+.--cdarksalmon{
+    color: darksalmon;
+}
+.--cdarkseagreen{
+    color: darkseagreen;
+}
+.--cdarkslateblue{
+    color: darkslateblue;
+}
+.--cdarkslategray{
+    color: darkslategray;
+}
+.--cdarkslategrey{
+    color: darkslategrey;
+}
+.--cdarkturquoise{
+    color: darkturquoise;
+}
+.--cdarkviolet{
+    color: darkviolet;
+}
+.--cdeeppink{
+    color: deeppink;
+}
+.--cdeepskyblue{
+    color: deepskyblue;
+}
+.--cdimgray{
+    color: dimgray;
+}
+.--cdimgrey{
+    color:dimgrey;
+}
+.--cdodgerblue{
+    color: dodgerblue;
+}
+.--cfirebrick{
+    color: firebrick;
+}
+.--cfloralwhite{
+    color: floralwhite;
+}
+.--cforestgreen{
+    color: forestgreen;
+}
+.--cfuchsia{
+    color: fuchsia;
+}
+.--cgainsboro{
+    color: gainsboro;
+}
+.--cghostwhite{
+    color: ghostwhite;
+}
+.--cgold{
+    color: gold;
+}
+.--cgoldenrod{
+    color: goldenrod;
+}
+.--cgray{
+    color: gray;
+}
+.--cgrey{
+    color: grey;
+}
+.--cgreen{
+    color: green;
+}
+.--cgreenyellow{
+    color: greenyellow;
+}
+.--choneydew{
+    color: honeydew;
+}
+.--chotpink{
+    color: hotpink;
+}
+.--cindianred{
+    color: indianred;
+}
+.--cindigo{
+    color: indigp;
+}
+.--civory{
+    color: ivory;
+}
+.--ckhaki{
+    color: khaki;
+}
+.--clavender{
+    color: lavender;
+}
+.--clavenderblush{
+    color: lavenderblush;
+}
+.--clawngreen{
+    color: lawngreen;
+}
+.--clemonchiffon{
+    color: lemonchiffon;
+}
+.--clightblue{
+    color: lightblue;
+}
+.--clightcoral{
+    color: lightcoral;
+}
+.--clightcyan{
+    color: lightcyan;
+}
+.--clightgoldenrodyellow{
+    color: lightgoldenrodyellow;
+}
+.--clightgray{
+    color: lightgray;
+}
+.--clightgrey{
+    color: lightgrey;
+}
+.--clightgreen{
+    color: lightgreen;
+}
+.--clightpink{
+    color: lightpink;
+}
+.--clightsalmon{
+    color: lightsalmon;
+}
+.--clightseagreen{
+    color: lightseagreen;
+}
+.--clightskyblue{
+    color: lightskyblue;
+}
+.--clightslategray{
+    color: lightslategray;
+}
+.--clightslategrey{
+    color: lightslategrey;
+}
+.--clightsteelblue{
+    color: lightsteelblue;
+}
+.--clightyellow{
+    color: lightyellow;
+}
+.--clime{
+    color: lime;
+}
+.--climegreen{
+    color: limegreen;
+}
+.--clinen{
+    color: linen;
+}
+.--cmagenta{
+    color: magenta;
+}
+.--cmaroon{
+    color: maroon;
+}
+.--cmediumaquamarine{
+    color: mediumaquamarine;
+}
+.--cnediumblue{
+    color: mediumblue;
+}
+.--cmediumorchid{
+    color: mediumorchid;
+}
+.--cmediumpurple{
+    color: mediumpurple;
+}
+.--cmediumseagreen{
+    color: mediumseagreen;
+}
+.--cmediumslateblue{
+    color: mediumslateblue;
+}
+.--cmediumspringgreen{
+    color: mediumspringgreen;
+}
+.--cmediumturquoise{
+    color: mediumturquoise;
+}
+.--cmediumvioletred{
+    color: mediumvioletred;
+}
+.--cmidnightblue{
+    color: midnightblue;
+}
+.--cmintcream{
+    color: mintcream;
+}
+.--cmistyrose{
+    color: mistyrose;
+}
+.--cmoccasin{
+    color: moccasin;
+}
+.--cnavajowhite{
+    color: navajowhite;
+}
+.--cnavy{
+    color: navy;
+}
+.--coldlace{
+    color: oldlace;
+}
+.--colive{
+    color: olive;
+}
+.--colivedrab{
+    color: olivedrab;
+}
+.--corange{
+    color: orange;
+}
+.--corangered{
+    color: orangered;
+}
+.--corchid{
+    color: orchid;
+}
+.--cpalegoldenrod{
+    color: palegoldenrod;
+}
+.--cpalegreen{
+    color: palegreen;
+}
+.--cpaleturquoise{
+    color: paleturquoise;
+}
+.--cpalevioletred{
+    color: palevioletred;
+}
+.--cpapayawhip{
+    color: papayawhip;
+}
+.--cpeachpuff{
+    color: peachpuff;
+}
+.--cperu{
+    color: peru;
+}
+.--cpink{
+    color: pink;
+}
+.--cplum{
+    color: plum;
+}
+.--cpowderblue{
+    color: powderblue;
+}
+.--cpurple{
+    color: purple;
+}
+.--crebbecapurple{
+    color: rebeccapurple;
+}
+.--cred{
+    color: red;
+}
+.--crosybrown{
+    color: rosybrown;
+}
+.--croyalblue{
+    color: royalblue;
+}
+.--csaddlebrown{
+    color: saddlebrown;
+}
+.--csalmon{
+    color: salmon;
+}
+.--csandybrown{
+    color: sandybrown;
+}
+.--cseagreen{
+    color: seagreen;
+}
+.--cseachell{
+    color: seashell;
+}
+.--csienna{
+    color: sienna;
+}
+.--csilver{
+    color: silver;
+}
+.--cskyblue{
+    color: skyblue;
+}
+.--cslateblue{
+    color: slateblue;
+}
+.--csnow{
+    color: snow;
+}
+.--cspringreen{
+    color: springgreen;
+}
+.--csteelblue{
+    color: steelblue;
+}
+.--ctan{
+    color: tan;
+}
+.--cteal{
+    color: teal;
+}
+.--cthistle{
+    color: thistle;
+}
+.--ctomato{
+    color: tomato;
+}
+.--cturquoise{
+    color: turquoise;
+}
+.--cviolet{
+    color: violet;
+}
+.--cwheat{
+    color: white;
+}
+.--cwhitesmoke{
+    color: whitesmoke;
+}
+.--cyellow{
+    color: yellow;
+}
+.--cyellowgreen{
+    color: yellowgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
