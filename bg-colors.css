@@ -30,11 +30,20 @@
 .--bgbisque{
     background-color: bisque;
 }
+.--bgblack{
+    background-color: black;
+}
 .-cblanchedalmond{
     background-color: blanchedalmond;
 }
+.--bgblue{
+    background-color: blue;
+}
 .--bgblueviolet{
     background-color: blueviolet;
+}
+.--bgbrown{
+    background-color: brown;
 }
 .--bgburlywood{
     background-color: burlywood;
@@ -48,8 +57,20 @@
 .--bgchocolate{
     background-color: chocolate;
 }
+.--bgcoral{
+    background-color: coral;
+}
+.--bgcornflowerblue{
+    background-color: cornflowerblue;
+}
 .--bgcornsilk{
     background-color: cornsilk;
+}
+.--bgcrimson{
+    background-color: crimson;
+}
+.--bgcyan{
+    background-color: cyan;
 }
 .--bgdarkblue{
     background-color: darkblue;
