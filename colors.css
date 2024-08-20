@@ -9,7 +9,6 @@
     Colors listed in alphabetical order ✅
 
 */
-
 .--caliceblue{
     color: aliceblue;
 }
@@ -31,11 +30,20 @@
 .--cbisque{
     color: bisque;
 }
+.--cblack{
+    color: black;
+}
 .-cblanchedalmond{
     color: blanchedalmond;
 }
+.--cblue{
+    color: blue;
+}
 .--cblueviolet{
     color: blueviolet;
+}
+.--cbrown{
+    color: brown;
 }
 .--cburlywood{
     color: burlywood;
@@ -49,8 +57,20 @@
 .--cchocolate{
     color: chocolate;
 }
+.--ccoral{
+    color: coral;
+}
+.--ccornflowerblue{
+    color: cornflowerblue;
+}
 .--ccornsilk{
     color: cornsilk;
+}
+.--ccrimson{
+    color: crimson;
+}
+.--ccyan{
+    color: cyan;
 }
 .--cdarkblue{
     color: darkblue;
